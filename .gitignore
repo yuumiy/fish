@@ -12,3 +12,4 @@ out/
 .classpath
 .project
 bin/
+build/
