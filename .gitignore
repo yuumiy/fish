@@ -7,4 +7,8 @@ target/
 */.gradle/
 */out/
 out/
+### Java ###
+.settings/
+.classpath
+.project
 bin/
